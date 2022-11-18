@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">JAVA , KOTLIN, SQL , CSS , HTML , Worpress</h2>
+<h2 align="left">JAVA | KOTLIN | SQL | CSS | HTML | Worpress</h2>
 
 ###
 
