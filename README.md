@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Backend Developer<br>📚Desarrollador de aplicaciones multiplataforma, actualmente cursando el Grado Superior, conocimientos en Java, Javascript, base de datos SQL, HTML, CSS...<br></p>
+<p align="left">✨ Backend Developer<br>📚Desarrollador de aplicaciones multiplataforma, actualmente cursando el Grado Superior<br></p>
 
 ###
 
