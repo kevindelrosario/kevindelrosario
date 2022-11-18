@@ -6,7 +6,8 @@
 
 ###
 
- <div align="center"> <img height="200" src="https://media-exp1.licdn.com/dms/image/C4E03AQFBD8Hfch1siA/profile-displayphoto-shrink_800_800/0/1637925475795?e=1674086400&v=beta&t=CXExhR6tUO1MZ0SvuOZUqgYSbamxmHULu8uPowgHf94"  /> </div> ###
+ <div align="center"> <img height="200" src="https://media-exp1.licdn.com/dms/image/C4E03AQFBD8Hfch1siA/profile-displayphoto-shrink_800_800/0/1637925475795?e=1674086400&v=beta&t=CXExhR6tUO1MZ0SvuOZUqgYSbamxmHULu8uPowgHf94"  /> </div> 
+ ###
 <p align="left">✨ Backend Developer<br>📚Desarrollador de aplicaciones multiplataforma, actualmente cursando el Grado Superior<br></p>
 
 ###
