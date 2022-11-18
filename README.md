@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋</h1>
-
-###
-
-<p align="left">Mi nombre es kevin del Rosario</p>
+<h1 align="left">Hola 👋, soy Kevin del Rosario</h1>
 
 ###
 
